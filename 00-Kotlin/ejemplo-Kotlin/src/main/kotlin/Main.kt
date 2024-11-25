@@ -125,7 +125,7 @@ abstract class Numeros( //Constructor Primario
         this.numeroDos
         println("Inicializando")
         println("Inicializando2")
-        println("Inicializando3")
+
 
     }
 }
