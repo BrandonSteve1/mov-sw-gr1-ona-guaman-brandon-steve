@@ -105,7 +105,7 @@ abstract class NumerosJava{
     ){
         this.numeroUno = uno
         this.numeroDos = dos
-        println("Inicializando las clases para ...")
+        println("Inicializando las clases para ...sdsdsdsd")
     }
 }
 
